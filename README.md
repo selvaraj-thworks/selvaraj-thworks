@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selvaraj-thworks
+- 👋 Hi, I’m Selvaraj
 - 👀 I’m interested in blockchain development and projects
 - 🌱 I’m currently learning web3, blockchain, metaverse
 - 💞️ I’m looking to collaborate on web3, blockchain, metaverse
